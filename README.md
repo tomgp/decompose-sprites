@@ -1,4 +1,6 @@
-I couldn't get any of those online spritesheet decomposers to work so here's a command line one
+A command line tool to split up sprite-sheets into their constituent images.
+
+I couldn't get any of those online sprite-sheet decomposers to work so here's a quick NodeJS take on the problem.
 
 How to use it:
 
@@ -22,3 +24,4 @@ Options
 -o, --outdir [path]    output directory [path]
 -h, --help             output usage information
 ```
+
