@@ -1,6 +1,6 @@
 {
   "name": "@tomgp/decompose-sprites",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "dependencies": {
@@ -15,5 +15,5 @@
     "decompose-sprites": "./index.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "BSD 3-Clause License"
 }
